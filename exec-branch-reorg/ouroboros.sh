@@ -148,7 +148,7 @@ until [ 'trump' = 'jailed' ]; do
 	QBODY="$QBODY -F 'submitted[select_other_agencies_boards_and_commissions_select_as_many_as_applicable_b][]=33'"
 	QBODY="$QBODY -F 'submitted[select_other_agencies_boards_and_commissions_select_as_many_as_applicable_b][]=36'"
 	QBODY="$QBODY -F 'submitted[list_specific_programs]='"
-	QBODY="$QBODY -F 'submitted[select_why][select]=0'"
+	QBODY="$QBODY -F 'submitted[select_why][select]=1'"
 
 	#contact information
 	QBODY="$QBODY -F 'submitted[first_name]=$FIRSTNAME'"
