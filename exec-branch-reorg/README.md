@@ -6,8 +6,13 @@ Short script to spam the Whitehouse's "Reorganizing the Executive Branch" survey
 Tested on OSX bash
 
 `nope.sh` - no changes, user information is randomized
+
+`ouroboros.sh` - removes the head of the beast, user informatino is randomized
+
 `burn.sh` - everything to be reformed, user information is randomized
+
 `rando.sh` - a few random selections are made, user information is randomized
+
 
 ## How do I use it?
 
@@ -16,7 +21,7 @@ Mac OS:
 Open terminal located in `/Applications/Utilities/Terminal.app`
 Navigate to the folder the scripts are located. You can do this by typing `cd` space and then drag and drop the folder containing the scripts and pressing enter.
 You'll have to add permissions to the scripts by entering:
-`chmod +x burn.sh nope.sh rando.sh`
+`chmod +x burn.sh nope.sh rando.sh ouroboros.sh`
 Then you can execute the scripts by entering:
 `./nope.sh`
 
