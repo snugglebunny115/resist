@@ -18,12 +18,14 @@ Tested on OSX bash
 
 Mac OS:
 
-Open terminal located in `/Applications/Utilities/Terminal.app`
-Navigate to the folder the scripts are located. You can do this by typing `cd` space and then drag and drop the folder containing the scripts and pressing enter.
-You'll have to add permissions to the scripts by entering:
-`chmod +x burn.sh nope.sh rando.sh ouroboros.sh`
-Then you can execute the scripts by entering:
-`./nope.sh`
+* Open terminal located in `/Applications/Utilities/Terminal.app`
+
+* Navigate to the folder the scripts are located. You can do this by typing `cd` space and then drag and drop the folder containing the scripts and pressing enter.
+
+* You'll have to add permissions to the scripts by entering: `chmod +x burn.sh nope.sh rando.sh ouroboros.sh`
+
+* Then you can execute the scripts by entering: `./nope.sh`
+
 
 Here's a more about the survey
 
