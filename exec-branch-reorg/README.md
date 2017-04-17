@@ -1,6 +1,6 @@
 ## Resist
 
-Short script to spam the Whitehouse's "Reorganizing the Executive Branch" survey with automated responses.
+Short script to generate and send responses to the Whitehouse's "Reorganizing the Executive Branch" survey.
 [Reorganizing the Executive Branch](https://www.whitehouse.gov/reorganizing-the-executive-branch)
 
 Tested on OSX bash
